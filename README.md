@@ -6,7 +6,7 @@
 I’m an ISTQB Certified Software Testing Engineer with 4+ years of experience in Manual, Automation, and API testing. I have explored various tools such as Cypress.io, WebDriver.io, Playwright and Selenium for Web applications, RestAssured for API Automation. Having Python, Java and basic Javascript programming language experience. Some knowledge of performance testing with JMeter, AWS, Docker, Linux, etc. I have designed and developed my own automation framework from scratch. One of my favorite functional areas is automating the application which reduces the repetitive manual work.
 
 **WHAT I DO**
-👉 Expertise in Manual Testing
+👉 Expertise in Manual Testing<br/>
 👉 Experience in Cypress automation tool with Javascript
 👉 Experience in Selenium with Java, TestNG, Cucumber(BDD)
 👉 Good knowledge of WebDriverIO and Playwright automation tools
