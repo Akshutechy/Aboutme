@@ -17,4 +17,9 @@ If you are looking for a flexible person who will adapt easily to any work envir
 👉 Experience in API testing with RestAssured and Postman tools<br/><br/>
 👉 Experience in Maven, GitHub, Jenkins, and GitHub Actions, CircleCI<br/><br/>
 👉 Experience in performance testing with the JMeter<br/><br/>
-👉 Exposure in Frontend and Backend development using Python
+👉 Exposure in Frontend and Backend development using Python<br/><br/>
+
+𝑬𝒎𝒂𝒊𝒍:akshaya.techy19@gmail.com<br/><br/>
+
+Best regards,
+Akshaya Narayanan
