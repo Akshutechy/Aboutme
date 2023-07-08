@@ -21,5 +21,5 @@ If you are looking for a flexible person who will adapt easily to any work envir
 
 𝑬𝒎𝒂𝒊𝒍:akshaya.techy19@gmail.com<br/><br/>
 
-Best regards,
+Best regards,<br/>
 Akshaya Narayanan
